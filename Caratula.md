@@ -1,5 +1,6 @@
+<p align="center">
 <img width="120" height="120" alt="UNL" src="https://github.com/user-attachments/assets/5939d355-c138-47dc-9d40-3dee0383f29a" />
-
+</p>
 
 # 🎓 UNIVERSIDAD NACIONAL DE LOJA 
 
@@ -8,16 +9,16 @@
 ---
 
 ### 📚 Asignatura
-**Teoría de la Programación**
+**Programación Orientada a Objetos**
 
 ### 🏷 Unidad
-**UNO**
+**Dos**
 
 ### 📝 Tema
-**Portafolio Digital de Aprendizaje: Teoría de la Programación**
+**Resolución de ejrcicios Poo**
 
 ### 👩‍🏫 Docente
-**Dra. Lissette López Faican**
+**ING. Wilman Chamba**
 
 ### 👨‍🎓 Estudiante
 **Danny Fernando Beltrán**
@@ -26,7 +27,7 @@
 **Computación**
 
 ### 🔢 Ciclo
-**Primero**
+**Segundo Ciclo**
 
-### 📅 Año Lectivo
-**2025 – 2026**
+### 📅 Período académico
+**Marzo-Agosto**
