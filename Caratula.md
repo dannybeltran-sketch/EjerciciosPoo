@@ -32,4 +32,26 @@
 ### 📅 Período académico
 **Marzo-Agosto**
 
-🏠 **Índice** | ➡️ [Siguiente](DejercicosUnoAlOcho.md)
+<p align="center">
+
+<a href="DejercicosUnoAlOcho.md">🧮 Ejercicios 1 al 8</a>  
+<br>
+<a href="HejercicosNueveAlTrece.md">🧩 Ejercicios 9 al 13</a>
+
+</p>
+
+---
+
+## 🔘 Navegación
+
+<p align="center">
+
+🏠 <b>Índice</b>
+
+</p>
+
+<p align="center">
+
+➡️ <a href="DejercicosUnoAlOcho.md">Siguiente</a>
+
+</p>
