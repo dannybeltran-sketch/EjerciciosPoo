@@ -385,6 +385,12 @@ public class Solution {
 <img width="1944" height="1093" alt="Screenshot 2026-06-02 173737" src="https://github.com/user-attachments/assets/24566db5-172e-4313-9e55-3c05172277ac" />
 <img width="2025" height="1240" alt="Screenshot 2026-06-02 173758" src="https://github.com/user-attachments/assets/9e180320-c5da-4c60-bc37-d490816b50fb" />
 
+<div align="center">
 
+<a href="índice de contenido.md">🏠 Ir a índice</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="HejercicosNueveAlTrece.md">➡️ Página siguiente</a>
+
+</div>
 
 
