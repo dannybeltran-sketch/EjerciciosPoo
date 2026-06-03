@@ -387,9 +387,9 @@ public class Solution {
 
 <div align="center">
 
-<a href="índice de contenido.md">🏠 Ir a índice</a>
+<a href="Caratula.md">⬅️ Regresar</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="índice de contenido.md">⬅️ Regresar</a>
+<a href="índice de contenido.md">🏠 Índice</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="HejercicosNueveAlTrece.md">➡️ Página siguiente</a>
 
