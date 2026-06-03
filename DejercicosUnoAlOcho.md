@@ -389,7 +389,7 @@ public class Solution {
 
 <a href="índice de contenido.md">🏠 Ir a índice</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="DejercicosUnoAlOcho.md">⬅️ Regresar</a>
+<a href="índice de contenido.md">⬅️ Regresar</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="HejercicosNueveAlTrece.md">➡️ Página siguiente</a>
 
