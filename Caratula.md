@@ -17,7 +17,7 @@
 ### 📝 Tema
 **Resolución de ejercicios Poo**
 
-### 👩‍🏫 Docente
+### 👨‍🏫
 **ING. Wilman Chamba**
 
 ### 👨‍🎓 Estudiante
