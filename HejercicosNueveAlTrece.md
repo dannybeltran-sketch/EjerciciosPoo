@@ -258,6 +258,11 @@ public class Solution {
 <img width="400" height="400" alt="Screenshot 2026-06-02 192336" src="https://github.com/user-attachments/assets/43cbe34f-75db-4990-9acf-75a3ffa2af41" />
 <img width="400" height="400" alt="Screenshot 2026-06-02 192359" src="https://github.com/user-attachments/assets/e60e5931-184f-4649-9df5-a7407ac6ce47" />
 
+# Anexos
+## Cuenta creada en plataforma
+<img width="3804" height="1734" alt="Screenshot 2026-06-02 201059" src="https://github.com/user-attachments/assets/cc0ece45-d3fa-4577-9278-03050c2cb432" />
+
+
 <div align="center">
 
 <a href="DejercicosUnoAlOcho.md">⬅️ Atrás</a>
