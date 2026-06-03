@@ -259,3 +259,10 @@ public class Solution {
 <img width="1928" height="1279" alt="Screenshot 2026-06-02 192336" src="https://github.com/user-attachments/assets/43cbe34f-75db-4990-9acf-75a3ffa2af41" />
 <img width="1906" height="1376" alt="Screenshot 2026-06-02 192359" src="https://github.com/user-attachments/assets/e60e5931-184f-4649-9df5-a7407ac6ce47" />
 
+<div align="center">
+
+<a href="DejercicosUnoAlOcho.md">⬅️ Atrás</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="índice de contenido.md">🏠 Índice</a>
+
+</div>
