@@ -39,7 +39,7 @@ public class Solution {
 ```
 # Captura código
 <img width="500" height="500" alt="Screenshot 2026-06-02 162805" src="https://github.com/user-attachments/assets/36022e54-0814-441b-af56-2d93d49e56f5" />
-<img width="1038" height="1400" alt="Screenshot 2026-06-02 163124" src="https://github.com/user-attachments/assets/3f45f30b-01e0-48e7-bae6-4b1103fd7c97" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 163124" src="https://github.com/user-attachments/assets/3f45f30b-01e0-48e7-bae6-4b1103fd7c97" />
 
 
 # Ejercicio 2 
@@ -85,9 +85,9 @@ class Solution {
 ```
 # Captura de código del ejercico
 
-<img width="2005" height="1292" alt="Screenshot 2026-06-02 160157" src="https://github.com/user-attachments/assets/a0f776e1-c76d-46e1-8196-5b9e0543329a" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 160157" src="https://github.com/user-attachments/assets/a0f776e1-c76d-46e1-8196-5b9e0543329a" />
 
-<img width="1999" height="1159" alt="Screenshot 2026-06-02 161247" src="https://github.com/user-attachments/assets/0dc96e7c-6cdc-4f9c-8e5b-541cc6d5acc9" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 161247" src="https://github.com/user-attachments/assets/0dc96e7c-6cdc-4f9c-8e5b-541cc6d5acc9" />
 
 
 # Ejercicio 3 
@@ -121,8 +121,8 @@ public class Solution {
 }
 ```
 # Captura de código
-<img width="1442" height="1224" alt="Screenshot 2026-06-02 163954" src="https://github.com/user-attachments/assets/c542ebed-2b99-4f82-a666-7cc8dbd96047" />
-<img width="1670" height="1445" alt="Screenshot 2026-06-02 164023" src="https://github.com/user-attachments/assets/b9e39b55-f7ea-4316-9285-1caf05f612cf" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 163954" src="https://github.com/user-attachments/assets/c542ebed-2b99-4f82-a666-7cc8dbd96047" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 164023" src="https://github.com/user-attachments/assets/b9e39b55-f7ea-4316-9285-1caf05f612cf" />
 
 # Ejercicio 4 
 # Java In eritance I
@@ -168,8 +168,8 @@ public class Solution {
 ```
 # Captura de código
 
-<img width="1431" height="1239" alt="Screenshot 2026-06-02 165106" src="https://github.com/user-attachments/assets/671a0488-22bd-442c-984f-133314742bbf" />
-<img width="2046" height="1127" alt="Screenshot 2026-06-02 165150" src="https://github.com/user-attachments/assets/62c7cc6e-8ae0-46d8-b3e2-0399f85c01a9" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 165106" src="https://github.com/user-attachments/assets/671a0488-22bd-442c-984f-133314742bbf" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 165150" src="https://github.com/user-attachments/assets/62c7cc6e-8ae0-46d8-b3e2-0399f85c01a9" />
 
 # Ejercicio 5 
 # Java Abstract Class
@@ -218,7 +218,7 @@ public class Main {
 ```
 # Captura de código
 
-<img width="1922" height="1283" alt="Screenshot 2026-06-02 170411" src="https://github.com/user-attachments/assets/0521a2ec-216c-4774-88d9-f5af46cc6065" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 170411" src="https://github.com/user-attachments/assets/0521a2ec-216c-4774-88d9-f5af46cc6065" />
 <img width="2055" height="1247" alt="Screenshot 2026-06-02 170447" src="https://github.com/user-attachments/assets/62b37ce7-f6fd-42c6-9081-c214ac268510" />
 
 # Ejercicio 6 
@@ -266,8 +266,8 @@ public class Main {
 }
 ```
 # Captura de código
-<img width="1939" height="1145" alt="Screenshot 2026-06-02 171239" src="https://github.com/user-attachments/assets/fdb7dab0-ab20-47bb-b31a-5eb11f5d4ca5" />
-<img width="2070" height="1301" alt="Screenshot 2026-06-02 171307" src="https://github.com/user-attachments/assets/a64ddd51-a66d-4e6b-b029-751ec2bcb9e2" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 171239" src="https://github.com/user-attachments/assets/fdb7dab0-ab20-47bb-b31a-5eb11f5d4ca5" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 171307" src="https://github.com/user-attachments/assets/a64ddd51-a66d-4e6b-b029-751ec2bcb9e2" />
 
 # Ejercicio 7 
 # Java Interface
@@ -328,8 +328,8 @@ class Solution {
 ```
 # Captura de código
 
-<img width="1939" height="1145" alt="Screenshot 2026-06-02 171239" src="https://github.com/user-attachments/assets/85bbaa3c-39c5-46df-8f3a-73216f6efac2" />
-<img width="2070" height="1301" alt="Screenshot 2026-06-02 171307" src="https://github.com/user-attachments/assets/b020830f-ac63-495f-8546-1b6093f9701c" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 171239" src="https://github.com/user-attachments/assets/85bbaa3c-39c5-46df-8f3a-73216f6efac2" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 171307" src="https://github.com/user-attachments/assets/b020830f-ac63-495f-8546-1b6093f9701c" />
 
 # Ejercicio 8
 # Java Interface
@@ -382,8 +382,8 @@ public class Solution {
 ```
 # Captura de código
 
-<img width="1944" height="1093" alt="Screenshot 2026-06-02 173737" src="https://github.com/user-attachments/assets/24566db5-172e-4313-9e55-3c05172277ac" />
-<img width="2025" height="1240" alt="Screenshot 2026-06-02 173758" src="https://github.com/user-attachments/assets/9e180320-c5da-4c60-bc37-d490816b50fb" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 173737" src="https://github.com/user-attachments/assets/24566db5-172e-4313-9e55-3c05172277ac" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 173758" src="https://github.com/user-attachments/assets/9e180320-c5da-4c60-bc37-d490816b50fb" />
 
 <div align="center">
 
