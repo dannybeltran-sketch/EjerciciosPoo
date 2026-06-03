@@ -253,7 +253,6 @@ public class Solution {
     }
 }
 ```
-```
 
 # Captura código
 <img width="1928" height="1279" alt="Screenshot 2026-06-02 192336" src="https://github.com/user-attachments/assets/43cbe34f-75db-4990-9acf-75a3ffa2af41" />
