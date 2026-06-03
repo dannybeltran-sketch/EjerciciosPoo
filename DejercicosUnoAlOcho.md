@@ -38,7 +38,7 @@ public class Solution {
 }
 ```
 # Captura código
-<img width="1833" height="1325" alt="Screenshot 2026-06-02 162805" src="https://github.com/user-attachments/assets/36022e54-0814-441b-af56-2d93d49e56f5" />
+<img width="500" height="500" alt="Screenshot 2026-06-02 162805" src="https://github.com/user-attachments/assets/36022e54-0814-441b-af56-2d93d49e56f5" />
 <img width="1038" height="1400" alt="Screenshot 2026-06-02 163124" src="https://github.com/user-attachments/assets/3f45f30b-01e0-48e7-bae6-4b1103fd7c97" />
 
 
