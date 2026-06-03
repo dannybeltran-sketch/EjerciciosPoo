@@ -41,8 +41,8 @@ class Solution {
 ```
 
 # Captura código
-<img width="1934" height="1144" alt="Screenshot 2026-06-02 175101" src="https://github.com/user-attachments/assets/742280f0-d02a-431d-9d0e-efffc1fc157a" />
-<img width="2076" height="1133" alt="Screenshot 2026-06-02 175118" src="https://github.com/user-attachments/assets/789a1e01-85d2-422b-b24c-e33da0d477ca" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 175101" src="https://github.com/user-attachments/assets/742280f0-d02a-431d-9d0e-efffc1fc157a" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 175118" src="https://github.com/user-attachments/assets/789a1e01-85d2-422b-b24c-e33da0d477ca" />
 
 # Ejercicio 10
 # Java Instanceof keyword
@@ -98,8 +98,8 @@ public class InstanceOFTutorial {
 }
 ```
 # Captura código
-<img width="1889" height="1271" alt="Screenshot 2026-06-02 183214" src="https://github.com/user-attachments/assets/b215cbd7-e51f-41f5-aa84-09d81dde34ec" />
-<img width="1803" height="1341" alt="Screenshot 2026-06-02 183350" src="https://github.com/user-attachments/assets/86eb4cb2-3eb2-4c13-977e-1cd8541ba4b1" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 183214" src="https://github.com/user-attachments/assets/b215cbd7-e51f-41f5-aa84-09d81dde34ec" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 183350" src="https://github.com/user-attachments/assets/86eb4cb2-3eb2-4c13-977e-1cd8541ba4b1" />
 
 # Ejercicio 11
 # Java Iterator
@@ -160,8 +160,8 @@ public class Main {
 }
 ```
 # Captura código
-<img width="1691" height="1285" alt="Screenshot 2026-06-02 190111" src="https://github.com/user-attachments/assets/6cafc6ba-5aef-4256-a97c-d1bdf0bb43d8" />
-<img width="1695" height="1426" alt="Screenshot 2026-06-02 190011" src="https://github.com/user-attachments/assets/e7951229-2641-44e4-a44c-06787546a04f" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 190111" src="https://github.com/user-attachments/assets/6cafc6ba-5aef-4256-a97c-d1bdf0bb43d8" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 190011" src="https://github.com/user-attachments/assets/e7951229-2641-44e4-a44c-06787546a04f" />
 
 # Ejercicio 12
 # Java Exception Handling (Try-catch)
@@ -202,8 +202,8 @@ public class Solution {
 ```
 # Captura código
 
-<img width="1874" height="1312" alt="Screenshot 2026-06-02 191214" src="https://github.com/user-attachments/assets/547fc88f-e470-4647-a523-a20a8681d2e4" />
-<img width="1342" height="1096" alt="Screenshot 2026-06-02 191244" src="https://github.com/user-attachments/assets/63de6165-30ec-46df-8307-3db01bf4c405" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 191214" src="https://github.com/user-attachments/assets/547fc88f-e470-4647-a523-a20a8681d2e4" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 191244" src="https://github.com/user-attachments/assets/63de6165-30ec-46df-8307-3db01bf4c405" />
 
 # Ejercicio 13
 # Java Exce tion Handlin
@@ -255,8 +255,8 @@ public class Solution {
 ```
 
 # Captura código
-<img width="1928" height="1279" alt="Screenshot 2026-06-02 192336" src="https://github.com/user-attachments/assets/43cbe34f-75db-4990-9acf-75a3ffa2af41" />
-<img width="1906" height="1376" alt="Screenshot 2026-06-02 192359" src="https://github.com/user-attachments/assets/e60e5931-184f-4649-9df5-a7407ac6ce47" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 192336" src="https://github.com/user-attachments/assets/43cbe34f-75db-4990-9acf-75a3ffa2af41" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 192359" src="https://github.com/user-attachments/assets/e60e5931-184f-4649-9df5-a7407ac6ce47" />
 
 <div align="center">
 
