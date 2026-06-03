@@ -34,7 +34,8 @@
 
 <p align="center">
 
-➡️ <a href="Caratula.md">🏠 Índice</a>  
+<a href="Caratula.md">🏠 Índice</a>  
 &nbsp;&nbsp;|&nbsp;&nbsp;
-➡️ <a href="DejercicosUnoAlOcho.md">Siguiente</a>
+<a href="DejercicosUnoAlOcho.md">➡️ Siguiente</a>
 
+</p>
