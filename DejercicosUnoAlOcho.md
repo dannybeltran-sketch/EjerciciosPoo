@@ -219,7 +219,7 @@ public class Main {
 # Captura de código
 
 <img width="400" height="400" alt="Screenshot 2026-06-02 170411" src="https://github.com/user-attachments/assets/0521a2ec-216c-4774-88d9-f5af46cc6065" />
-<img width="2055" height="1247" alt="Screenshot 2026-06-02 170447" src="https://github.com/user-attachments/assets/62b37ce7-f6fd-42c6-9081-c214ac268510" />
+<img width="400" height="400" alt="Screenshot 2026-06-02 170447" src="https://github.com/user-attachments/assets/62b37ce7-f6fd-42c6-9081-c214ac268510" />
 
 # Ejercicio 6 
 # Java Abstract Class
